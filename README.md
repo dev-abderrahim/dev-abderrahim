@@ -6,7 +6,7 @@ Junior Mobile App Developer, and a Low-Level passionate programmer.
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [guerrouf.abderrahim@gmail.com](mailto:guerrouf.abderrahim@gmail.com)
-* 🧠  I'm learning Flutter, C++, Git
+* 🧠  I'm learning Kotlin, C++, Git
 * 🤝  I'm open to collaborating on projects to gain experience
 
 ### Skills
@@ -20,11 +20,3 @@ Junior Mobile App Developer, and a Low-Level passionate programmer.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/dev-abderrahim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abderrahim-guerrouf-a62408317" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dev-abderrahim"><img src="https://github-readme-stats.vercel.app/api?username=dev-abderrahim&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="dev-abderrahim's GitHub stats" /></a>
-
-<a href="http://www.github.com/dev-abderrahim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abderrahim&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
