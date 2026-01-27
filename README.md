@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-guerrouf-a62408317)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-abderrahim)
+[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-Profile-black?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/devabderrahim)
 
 </div>
 
