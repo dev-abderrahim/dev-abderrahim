@@ -2,7 +2,7 @@
 
 # Abderrahim Guerrouf
 
-**Junior Software Developer | Low-Level Programming Enthusiast**
+**CS Student | Linux & Systems Programming | Network Administration & Security**
 
 [![Email](https://img.shields.io/badge/Email-guerrouf.abderrahim%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guerrouf.abderrahim@gmail.com)
 
@@ -16,10 +16,10 @@
 
 ## About Me
 ```yaml
-location: Algeria
-focus: Backend Development & Systems Programming
-current_learning: [Java, C, Spring Framework]
-status: Open to collaboration and gaining hands-on experience
+location:         Algeria
+focus:            Linux Systems, Network Administration & Security, Systems Programming
+current_learning: [System Administration, Java, Network Security (HCIA)]
+status:           Open to collaboration and gaining hands-on experience
 ```
 
 ---
@@ -30,12 +30,14 @@ status: Open to collaboration and gaining hands-on experience
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks & Technologies
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Development Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
